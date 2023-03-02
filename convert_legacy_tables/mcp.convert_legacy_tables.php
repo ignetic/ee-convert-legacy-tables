@@ -32,7 +32,7 @@ private $field_extra = array();
 			
 		$this->field_extra = array(
 			'type' => 'html',
-			'content' => '<div style="text-align:center; font-family:FontAwesome, \'Font Awesome 5 Free\'; font-weight:normal; font-size:40px; color:#ddd; pointer-events:none;">&#xf063; &#xf062;</div>'
+			'content' => '<div style="text-align:center; font-family:FontAwesome, \'Font Awesome 5 Free\', \'Font Awesome 6 Pro\'; font-weight:normal; font-size:40px; color:#ddd; pointer-events:none;">&#xf063; &#xf062;</div>'
 		);
 	}
 	
